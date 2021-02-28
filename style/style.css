@@ -1,0 +1,50 @@
+.navbar{
+    height: 100px;
+    background-color: #F0A500;
+}
+
+.navbar-brand{
+    font-family: "Oswald";
+    font-size: 24px;
+    padding-left: 105px;
+}
+
+.navbar-nav{
+    font-family: "Poppins";
+    font-weight: 700;
+    padding-right: 110px;
+}
+
+.title{
+    color: black;
+    font-size: 45px;
+    font-family: "Poppins";
+    font-weight: 700;
+}
+
+.text{
+    color: black;
+    font-family: "Poppins";
+    font-weight: 400;
+}
+
+.home{
+    margin-top: 100px;
+}
+
+.img-radius{
+    border-radius: 20px;
+}
+
+.col1{
+    padding-top: 60px;
+}
+
+.carousel{
+    margin-top: 100px;
+}
+
+.carousel-img{
+    height: 800px;
+    width: fit-content;
+}
