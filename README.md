@@ -1,2 +1,2 @@
 # CompanyProfile
-company profile front end using bootstrap
+company profile using bootstrap
